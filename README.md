@@ -3,8 +3,7 @@
 - 🌱 I’m skilled in Blockchain and full-stack web development. My domain of interests include web, AI, and solidity.
 - 💞️ I’m looking to collaborate on web development projects, Neural Network building, python modeling, blockchain projects
 - 📫 You can reach out to me at sarvagyasaxena.2102@gmail.com
-- I'll define my personality as ->
-- SELECT nerds FROM individuals
+- I'll define my personality as ->  SELECT nerds FROM individuals
 WHERE name = 'Sarvagya'
 AND sense_of_humor = 'excellent';
 
