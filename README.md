@@ -3,7 +3,9 @@
 - 🌱 I’m skilled in Blockchain, AI and full-stack web development fraeworks like React.
 - 💞️ I’m looking to collaborate on web development projects, cross-platform dev projects (React Native), blockchain projects, AI-bot development and ML.
 - 📫 You can reach out to me at sarvagyasaxena.2102@gmail.com
-- I'll define my personality as ->  SELECT nerds FROM artists
+- I'll define my personality as ->
+
+SELECT nerds FROM artists
 WHERE name = 'Sarvagya'
 AND sense_of_humor = 'excellent';
 
