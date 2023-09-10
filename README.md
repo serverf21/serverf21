@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvagya
 - 👀 I love to break down complex problems, devise the solution, and then automate it!
-- 🌱 I’m skilled in Blockchain, AI and full-stack web development fraeworks like React.
+- 🌱 I’m skilled in Blockchain, AI and full-stack web development frameworks like React.
 - 💞️ I’m looking to collaborate on web development projects, cross-platform dev projects (React Native), blockchain projects, AI-bot development and ML.
 - 📫 You can reach out to me at sarvagyasaxena.2102@gmail.com
 - I'll define my personality as ->
