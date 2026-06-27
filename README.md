@@ -18,9 +18,7 @@ sarvagyasaxena.2102@gmail.com
 Get in touch with me at - 
 https://www.linkedin.com/in/sarvagya-saxena-a8740195/
 
-<a href="[https://www.w3schools.com](https://sarvagyasaxena.tech/)">
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8631ef57-61c3-482f-928b-f535918df741" loading="lazy" />
-</a>
 
 
 <!---
